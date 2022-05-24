@@ -1,4 +1,8 @@
-# composing
+# composing 
+## composing with components in vuejs
+:- what is component
+:- make home component
+:- make child component for home component
 
 ## Project setup
 ```
